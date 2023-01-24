@@ -1,8 +1,10 @@
 # hybrid_clustering_method
 this repository presents the hybrid clustering method
 
-set up toy problems\
-create toy problem files
+toy problems
+
+to create toy problems locally:
+    run the toy_problems notebook or toy_problems.py
 
 format known data sets from:\
   binary alpha digits\
